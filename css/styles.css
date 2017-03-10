@@ -1,0 +1,38 @@
+.ip-input{
+    text-align:center;
+}
+
+.width-50{
+    width:50px;
+}
+.width-90{
+    width:90px;
+}
+.just-padding-right{
+    padding-left:0;
+    padding-right:10px;
+}
+.m-right-10{
+    margin-right:10px;
+}
+
+.top-5{
+    margin-top: 5px;
+}
+
+.top-20{
+    margin-top: 50px;
+}
+
+.dot{
+    height: 34;
+    font-weight: normal;
+    font-size:25px;
+    width:2px;
+    padding-right:0px;
+    padding-left: 10px;
+}
+
+.p-left-30{
+    padding-left:30px;
+}

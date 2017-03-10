@@ -1,0 +1,17 @@
+{
+  "name": "New folder",
+  "authors": [
+    "chuynelox <jesus.rm92@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
